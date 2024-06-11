@@ -18,7 +18,7 @@ Variables in JS :
 
     let & const scope is local scope and not changable.
 
-    //first_name  firstName (most prefered way to assign variables)
+    //first_name  firstName (most prefered way to assign variables)  <br>
 
 ```Javascript 
 var a = 1
