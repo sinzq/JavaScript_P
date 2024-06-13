@@ -80,3 +80,9 @@ for (let index = 0; index < array.length; index++) {
     const element = array[index];
     
 }
+
+
+DOM in JavaScript - Document Object Model
+
+alert("It is used to show alert user")
+prompt("Used to take data from user", "used to predefine text")
